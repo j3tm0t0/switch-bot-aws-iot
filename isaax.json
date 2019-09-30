@@ -1,0 +1,11 @@
+{
+  "name": "switch-bot-aws-iot",
+  "version": "",
+  "description": "",
+  "author": "",
+  "license": "",
+  "language": "",
+  "scripts": {
+    "start": "start.sh"
+  }
+}
