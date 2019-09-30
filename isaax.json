@@ -6,6 +6,6 @@
   "license": "",
   "language": "",
   "scripts": {
-    "start": "start.sh"
+    "start": "./start.sh"
   }
 }
